@@ -26,7 +26,3 @@ Welcome to Sumz, your go-to article summarizer application that makes reading a 
 
 ### API Integration
 - **OpenAI API**: Leveraging the power of OpenAI for article summarization.
-
-## Demo
-
-- Check out the live demo at :point_right: [Sumz](https://sumz-iota-three.vercel.app/)
